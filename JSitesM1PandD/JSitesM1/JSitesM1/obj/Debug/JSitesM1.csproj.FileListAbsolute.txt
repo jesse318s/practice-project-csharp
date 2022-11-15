@@ -1,0 +1,15 @@
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\bin\Debug\JSitesM1.exe.config
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\bin\Debug\JSitesM1.exe
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\bin\Debug\JSitesM1.pdb
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.csproj.AssemblyReference.cache
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.frmAbout.resources
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.frmCustomer.resources
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.frmMain.resources
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.Properties.Resources.resources
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.SplashScreen.resources
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.csproj.GenerateResource.cache
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.exe
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.pdb
+C:\Users\jesse\source\repos\JSitesM1\JSitesM1\obj\Debug\JSitesM1.frmReceipt.resources
